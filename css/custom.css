@@ -1,0 +1,398 @@
+/*This Custom CSS file has not been structured in any particular order. 
+
+Modify this file to your hearts content and make your website look awesome!*/
+
+
+body{
+	background-color: #fff;
+	padding-top: 80px;
+}
+
+
+/*Home*/
+.full-page-bg {
+  position: absolute;
+  margin-top: -80px;
+  padding-bottom: 100px;
+  width:100%;
+  min-height: 100vh;
+  background: url('../img/common/homepage_aprt_bg3.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+
+}
+
+
+/*Cards*/
+.card{border: none; background-color: transparent;}
+
+/*Navbar Rules*/
+img.nav-bar-img{
+	margin-right: 10px;
+}
+
+.navbar{
+	background-color: #fff;
+
+}
+
+a.navbar-brand{
+	font-family:'Roboto', Sans-Serif;
+	font-weight: 400;
+}
+
+.nav-font {
+    font-family: 'Roboto', Sans-Serif !important;
+    font-weight: 400;
+}
+
+.nav-space {
+    padding-right: 1.5rem !important;
+}
+
+
+/*Floating Nav*/
+.floating-nav{
+	position: fixed;
+	margin-top: 50px;
+	border-left: 1px solid #727272;
+}
+
+	a.float-nav-link{
+		font-family: 'Roboto', Sans-Serif;
+		color: #595959;
+		font-size: 14px;
+		font-weight: 600;
+		text-align: left;
+	}
+
+
+
+/*Image Rules*/
+img{
+	border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border: 0px solid #000000;
+}
+
+/*Font Override Rules*/
+h1, h2, h3, h4, h5, h6 {
+	font-family:'Roboto', Sans-Serif;
+	margin-bottom: 20px;
+}
+	h1.welcome-special{
+		font-size: 70px;
+        font-weight:600;
+	}
+
+	h2.welcome-special-sub{
+		font-family: 'Neris', 'Avenir', Sans-Serif;
+		font-size: 26px;
+        font-weight: 200;
+	}
+
+	h3 {
+		/*text-transform: uppercase;*/
+		color: #000000;
+		letter-spacing: -0.5px;
+	}
+
+p, li, span, a {
+	font-family: 'Neris', 'Avenir', Sans-Serif;
+	text-align: justify;
+	font-weight: 300;
+}
+
+	p{
+		color: #494949;
+		line-height: 30px;
+		margin-bottom: 25px;
+	}
+
+span.img-caption{
+	display: block;
+	font-size: 12px;
+	font-weight: 500;
+	padding: 10px 0px 10px 0px;
+}
+
+/*Container/class etc Override Rules*/
+.welcome-message{
+	margin-top: 240px;
+}
+
+.welcome-button-container{
+	margin-top: 40px;
+}
+
+.welcome-button{
+	background-color: transparent;
+	border-radius: 0px 0px 0px 0px;
+	font-family:'Roboto', Sans-Serif;
+	font-size: 20px;
+    color: #000;
+	text-transform: uppercase;
+    padding: .5rem 3rem !important;
+}
+
+.welcome-button-1 {
+    border: 3px solid #F5A623;
+}
+
+.welcome-button-2 {
+    border: 3px solid #000;
+}
+
+.welcome-button-1:hover{
+	background-color: #F5A623;
+	border-color: #F5A623;
+}
+
+.welcome-button-2:hover{
+	background-color: #000;
+	border-color: #000;
+}
+
+.master-heading{
+	padding-top: 50px;	
+}
+
+.section-heading{
+	padding-top: 100px;	
+}
+
+.slide-show{
+	padding: 30px 0px 50px 0px;
+}
+
+/******************
+Process Journal Page
+*******************/
+
+/* Sticky side nav */
+
+.img-bg {
+ position: absolute;
+ position: fixed;
+ width: 240px;
+}
+
+.nav-hl {
+    color: #fff !important;
+    
+}
+
+.nav-hl2 {
+    background-color: #000;
+    font-size: 18px;
+}
+
+.nav-edit {
+   border: none !important; 
+}
+
+/* Page Styling */
+
+.head-inline {
+    display: inline !important;
+}
+
+.test-1 {
+    background-color: #f1f1f1;
+    
+}
+
+.reflection_style {
+    background-color: #f1f1f1;
+    padding: 20px 30px;
+}
+
+.page-heading {
+    border-bottom: 5px solid #222222 !important;
+    font-family: 'Roboto', Sans-Serif;
+    font-weight: 500;
+}
+
+
+/******************
+Contact Page
+*******************/
+
+.contact-icon-sz {
+    width: 270px;
+}
+
+.contact-icon-sz:hover {
+    content: url('../img/common/contact-icon2.svg');
+}
+
+/*Footer*/
+.footer{
+	margin-top: 50px;
+	padding-top: 30px;
+	width: 100%;
+	min-height: 100px;
+	background-color: #989898;
+	border-top: 1px solid #727272;
+}
+
+
+/******************
+Companion Website Page
+*******************/
+
+.flybuy-style h1, h2, h3, h4, h5, h6 {
+    font-family:"Helvetica Neue",
+      "Lucida Grande", Sans-Serif;
+	/*font-weight: 400;*/
+}
+
+.flybuy-style p, ul, li {
+    font-family:"Helvetica Neue",
+      "Lucida Grande", Sans-Serif;
+	font-weight: 400;
+}
+
+.flybuy-tp {
+    padding-top: 70px;
+}
+
+.flybuy-logo {
+    max-width: 460px;
+}
+
+#flybuy-bg {
+    background-color: #3E5FC2 !important;
+    background-image: url('../img/companion-website/background3.jpg');
+   background-position: right bottom;*/
+    background-position: bottom 0px right 0px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 90vh;
+    /*background: url('../img/companion-website/background1.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;*/
+}
+
+#flybuy-bg1 {
+    background-color: #3E5FC2 !important;
+    background-image: url('../img/companion-website/watermark2.png');
+   background-position: right bottom;*/
+    background-position: bottom 0px right 0px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#flybuy-bg2 {
+    background-color: #E5E8F3 !important;
+    /*background-image: url('../img/companion-website/watermark4.svg');
+   /*background-position: right bottom;*/
+    /*background-position: bottom 0px right 0px;*/
+    /*background-repeat: no-repeat;
+    background-size: auto;*/
+    
+}
+
+#body-overwrite {
+    padding-top: 60px !important;
+}
+
+.flybuy-tx1 {
+    color: #fff !important;
+}
+
+#fly-hd {
+    font-weight: 600 !important;
+}
+
+#fly-dot {
+    color: #3E5FC2 !important;
+}
+
+#fly-jumbo {
+    font-size: 56px !important;
+    font-weight: 400;
+}
+
+.fly-body {
+    color: #76797F;
+}
+
+.fly-white {
+    color: #fff !important;
+}
+
+#fly-footer {
+    margin-top: 0px !important;
+    background-color: #17358D;
+    border-top: none;
+}
+
+.img-iteration1 {
+    max-width: 440px !important;
+}
+
+.img-iteration2 {
+    max-width: 240px !important;
+}
+
+
+/***********************
+    Margins & Padding
+************************/
+
+/* Note: this is me being lazy and extending the margin/padding capabilities of Bootstrap. Normally bootstrap only operates between 0.25-3rem */
+
+.my-6 {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+.my-7 {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.mt-6 {
+    margin-top: 4rem;
+}
+
+.mt-7 {
+    margin-top: 5rem;
+}
+
+.py-6 {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.py-7 {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.py-8 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.pt-6 {
+    padding-top: 4rem;
+}
+
+.pt-7 {
+    padding-top: 5rem;
+}
+
+.pt-8 {
+    padding-top: 6rem;
+}
+
+.pt-10 {
+    padding-top: 8rem;
+}

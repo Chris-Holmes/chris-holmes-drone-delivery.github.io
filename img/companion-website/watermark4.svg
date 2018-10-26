@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="798px" height="808px" viewBox="0 0 798 808" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 19 Copy 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="896"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-19-Copy-8" transform="translate(0.000000, -57.000000)">
+            <g id="Group-16-+-Group-18-Mask-Copy">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask" fill-rule="nonzero"></g>
+                <path d="M759,232.738607 C485.44935,-71.6172187 35.2148099,175.42678 -65.2185925,549.67112 C-162.72116,912.994311 170.206814,773.265683 220.842325,624.02233 C143.375937,878.531201 375.829142,878.531201 482.179928,679.06224 C482.179928,839.502901 674.292247,907.525197 759,679.06224" id="Path-Copy-2" stroke-opacity="0.38207654" stroke="#FFFFFF" stroke-width="77.7080214" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(338.000000, 461.000000) scale(-1, 1) translate(-338.000000, -461.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="258px" height="256px" viewBox="0 0 258 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 25 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="192" height="190" rx="47.1272727"></rect>
+        <filter x="-27.3%" y="-24.5%" width="154.7%" height="155.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="3" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0723788496 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-25-Copy" transform="translate(33.000000, 27.000000)">
+            <g id="Rectangle-Copy-3" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" xlink:href="#path-1"></use>
+            </g>
+            <text id="Convenient" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="26" font-weight="bold" letter-spacing="0.383809417" fill="#3E5FC2">
+                <tspan x="23.7639529" y="153">Convenient</tspan>
+            </text>
+            <g id="Group-24" transform="translate(54.000000, 29.000000)" fill-rule="nonzero">
+                <circle id="Oval-7" fill="#ECECEC" cx="42" cy="42" r="42"></circle>
+                <path d="M58.9787234,32.6670286 C47.3659197,19.6270093 28.2525113,30.2115233 23.9889009,46.2458918 C19.8497107,61.8123473 33.9832073,55.8257229 36.1327919,49.4314435 C32.8441799,60.3357874 42.7123101,60.3357874 47.2271259,51.7896092 C47.2271259,58.6636335 55.3827001,61.5780251 58.9787234,51.7896092" id="Path-Copy-3" stroke="#3E5FC2" stroke-width="3.29730345" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

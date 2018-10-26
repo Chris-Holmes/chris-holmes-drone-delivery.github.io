@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="258px" height="256px" viewBox="0 0 258 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 20 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="192" height="190" rx="47.1272727"></rect>
+        <filter x="-27.3%" y="-24.5%" width="154.7%" height="155.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="3" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0723788496 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-20-Copy" transform="translate(33.000000, 27.000000)">
+            <g id="Rectangle-Copy-3" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" xlink:href="#path-1"></use>
+            </g>
+            <text id="2/3-copy" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="64" font-weight="bold" letter-spacing="0.944761932" fill="#3E5FC2">
+                <tspan x="47" y="88">2/3</tspan>
+            </text>
+            <text id="Proportion-of-world’-Copy" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="12" font-weight="bold" letter-spacing="0.177142844" fill="#3E5FC2">
+                <tspan x="34.1520001" y="118">Proportion of world’s </tspan>
+                <tspan x="40.3665716" y="133">population living in </tspan>
+                <tspan x="80.1505715" y="148">cities</tspan>
+            </text>
+            <text id="Karagianis,-2014-Copy" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" letter-spacing="0.147619039" fill="#AAAAAA">
+                <tspan x="57.9940477" y="168">Karagianis, 2014</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="440px" height="170px" viewBox="0 0 440 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="110" height="110" rx="28.8"></rect>
+        <filter x="-29.1%" y="-25.5%" width="158.2%" height="158.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="4" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1502774 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2-Copy" transform="translate(36.000000, 23.000000)">
+            <g id="Group" transform="translate(0.000000, 11.000000)" fill-rule="nonzero">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+                <path d="M82.1014493,39.8961044 C64.4919028,20.2885075 35.5085096,36.2038892 29.0432108,60.3139326 C22.7665816,83.7203998 44.1984833,74.718625 47.4580932,65.1038805 C42.4712728,81.5001736 57.4352127,81.5001736 64.2814371,68.6497314 C64.2814371,78.985843 76.6484734,83.3680617 82.1014493,68.6497314" id="Path" stroke="#3E5FC2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <text id="flybuys" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="69.4533762" font-weight="normal" line-spacing="35.2940795" letter-spacing="-0.868167525" fill="#3E5FC2">
+                <tspan x="127" y="66">flybuys</tspan>
+            </text>
+            <text id="DRONE-DELIVERY-SERVI" font-family="Avenir-Light, Avenir" font-size="14" font-weight="300" letter-spacing="2.5" fill="#AAAAAA">
+                <tspan x="134.013" y="107">DRONE DELIVERY SERVIC</tspan>
+                <tspan x="351.685" y="107">E</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
