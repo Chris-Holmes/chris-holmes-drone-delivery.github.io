@@ -216,6 +216,19 @@ Process Journal Page
     font-weight: 500;
 }
 
+.reflection-p {
+    margin-bottom: 0px;
+}
+
+.user-quotes {
+    background-color: #000;
+    font-size: 18px;
+}
+
+.user-quotes-w {
+    color: #fff;
+}
+
 
 /******************
 Contact Page
