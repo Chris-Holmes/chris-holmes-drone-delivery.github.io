@@ -88,11 +88,24 @@ h1, h2, h3, h4, h5, h6 {
         font-weight:600;
 	}
 
+    h1.portfolio-heading {
+		font-size: 50px;
+        font-weight:600;
+	}
+
 	h2.welcome-special-sub{
 		font-family: 'Neris', 'Avenir', Sans-Serif;
 		font-size: 26px;
         font-weight: 200;
 	}
+
+    h3.portfolio-heading {
+        font-family: 'Neris', 'Avenir', Sans-Serif;
+		font-size: 20px;
+        font-weight: 200;
+        color: #000;
+        line-height: 35px; 
+    }
 
 	h3 {
 		/*text-transform: uppercase;*/
@@ -311,6 +324,14 @@ Companion Website Page
     
 }
 
+p.how-might-we {
+    font-size: 30px !important;
+    font-weight: 600;
+    color: #CFD1D8;
+    line-height: 40px;
+    word-spacing: 0px;
+}
+
 #body-overwrite {
     padding-top: 60px !important;
 }
@@ -353,6 +374,28 @@ Companion Website Page
 .img-iteration2 {
     max-width: 240px !important;
 }
+
+.img-iteration3 {
+    max-width: 540px !important;
+}
+
+.img-iteration4 {
+    max-width: 740px !important;
+}
+
+/******************
+Portfolio Page
+*******************/
+
+#portfolio-bg {
+    background-color: #fff !important;
+}
+
+#portfolio-bg1 {
+    background-color: #f1f1f1 !important;
+}
+
+
 
 
 /***********************

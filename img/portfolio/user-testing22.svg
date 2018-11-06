@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="866px" height="666px" viewBox="0 0 866 666" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 42</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="380" height="280" rx="47.1272727"></rect>
+        <filter x="-13.8%" y="-16.6%" width="127.6%" height="137.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="3" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0723788496 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="380" height="280" rx="47.1272727"></rect>
+        <filter x="-13.8%" y="-16.6%" width="127.6%" height="137.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="3" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0723788496 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="380" height="280" rx="47.1272727"></rect>
+        <filter x="-13.8%" y="-16.6%" width="127.6%" height="137.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="3" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0723788496 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="380" height="280" rx="47.1272727"></rect>
+        <filter x="-13.8%" y="-16.6%" width="127.6%" height="137.5%" filterUnits="objectBoundingBox" id="filter-8">
+            <feMorphology radius="3" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0723788496 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-42" transform="translate(33.000000, 27.000000)">
+            <g id="Group-36">
+                <g id="Rectangle-Copy-9" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+                <text id="Users-want-to-see-De" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" letter-spacing="0.354285598" fill="#3E5FC2">
+                    <tspan x="83.8725724" y="53">Users want to see </tspan>
+                    <tspan x="50.1337156" y="81">Delivery Address on the </tspan>
+                    <tspan x="67.993144" y="109">first Tracking Screen</tspan>
+                </text>
+                <text id="Users-pointed-out-th" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" line-spacing="24" letter-spacing="0.2657143" fill="#76797F">
+                    <tspan x="46.8219997" y="146">Users pointed out that the delivery </tspan>
+                    <tspan x="51.767714" y="170">location was absent from the first </tspan>
+                    <tspan x="46.4688569" y="194">tracking screen. They would prefer </tspan>
+                    <tspan x="53.1198569" y="218">to see this than have the invoice/</tspan>
+                    <tspan x="132.000143" y="242">parcel details.</tspan>
+                </text>
+            </g>
+            <g id="Group-38" transform="translate(0.000000, 320.000000)">
+                <g id="Rectangle-Copy-10" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-3"></use>
+                </g>
+                <text id="Users-want-more-time" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" letter-spacing="0.354285598" fill="#3E5FC2">
+                    <tspan x="60.493144" y="53">Users want more time </tspan>
+                    <tspan x="65.797144" y="81">feedback as Drone is </tspan>
+                    <tspan x="142.764" y="109">Landing</tspan>
+                </text>
+                <text id="It-was-mentioned-tha" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" line-spacing="24" letter-spacing="0.2657143" fill="#76797F">
+                    <tspan x="54.2135712" y="146">It was mentioned that the screen </tspan>
+                    <tspan x="42.9789997" y="170">that is presented when the Drone is </tspan>
+                    <tspan x="40.1619997" y="194">landing shows no actual information </tspan>
+                    <tspan x="41.4939997" y="218">progression about how long it takes </tspan>
+                    <tspan x="116.580571" y="242">the drone to land.</tspan>
+                </text>
+            </g>
+            <g id="Group-37" transform="translate(420.000000, 0.000000)">
+                <g id="Rectangle-Copy-11" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-5"></use>
+                </g>
+                <text id="Users-want-to-be-abl" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" letter-spacing="0.354285598" fill="#3E5FC2">
+                    <tspan x="46.2005728" y="67">Users want to be able to </tspan>
+                    <tspan x="48.98743" y="95">track multiple deliveries</tspan>
+                </text>
+                <text id="The-issue-was-raised" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" line-spacing="24" letter-spacing="0.2657143" fill="#76797F">
+                    <tspan x="41.8449997" y="137">The issue was raised that there was </tspan>
+                    <tspan x="67.8352855" y="161">no clear way to track multiple </tspan>
+                    <tspan x="54.278714" y="185">parcels at once. This was a clear </tspan>
+                    <tspan x="43.2918569" y="209">error on our part and something we </tspan>
+                    <tspan x="55.3565712" y="233">hadn’t properly thought through.</tspan>
+                </text>
+            </g>
+            <g id="Group-41" transform="translate(420.000000, 320.000000)">
+                <g id="Rectangle-Copy-12" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-7"></use>
+                </g>
+                <text id="Users-don’t-want-to" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" letter-spacing="0.354285598" fill="#3E5FC2">
+                    <tspan x="50.3497156" y="53">Users don’t want to see </tspan>
+                    <tspan x="38.9342872" y="81">the invoice of the product </tspan>
+                    <tspan x="100.246858" y="109">during tracking</tspan>
+                </text>
+                <text id="Users-mentioned-that" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" line-spacing="24" letter-spacing="0.2657143" fill="#76797F">
+                    <tspan x="37.8039997" y="146">Users mentioned that since they had </tspan>
+                    <tspan x="54.413714" y="170">already paid for the product they </tspan>
+                    <tspan x="33.5714283" y="194">didn’t want to see the cost as it made </tspan>
+                    <tspan x="43.1388569" y="218">them wonder whether there original </tspan>
+                    <tspan x="58.4932855" y="242">payment was successful or not.</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
