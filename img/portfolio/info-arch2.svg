@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1680px" height="688px" viewBox="0 0 1680 688" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 92</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="386.206897" height="608.735632" rx="40"></rect>
+        <filter x="-16.3%" y="-9.4%" width="132.6%" height="120.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0464504076 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="10.8117816" y="0" width="80.316092" height="71.0488506" rx="6"></rect>
+        <filter x="-18.7%" y="-16.9%" width="137.4%" height="142.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="2.35632184" y="0.0387931034" width="77.2270115" height="61.7816092" rx="6"></rect>
+        <filter x="-19.4%" y="-19.4%" width="138.8%" height="148.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0.356321839" y="0.403735632" width="77.2270115" height="61.7816092" rx="6"></rect>
+        <filter x="-19.4%" y="-19.4%" width="138.8%" height="148.6%" filterUnits="objectBoundingBox" id="filter-8">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="11.3563218" y="0.721264368" width="77.2270115" height="61.7816092" rx="6"></rect>
+        <filter x="-19.4%" y="-19.4%" width="138.8%" height="148.6%" filterUnits="objectBoundingBox" id="filter-10">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="11.1111111" y="0" width="79.3650794" height="63.4920635" rx="6"></rect>
+        <filter x="-18.9%" y="-18.9%" width="137.8%" height="147.2%" filterUnits="objectBoundingBox" id="filter-12">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-13" x="0" y="0" width="386.206897" height="608.735632" rx="40"></rect>
+        <filter x="-16.3%" y="-9.4%" width="132.6%" height="120.7%" filterUnits="objectBoundingBox" id="filter-14">
+            <feMorphology radius="5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0464504076 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-15" x="11.1111111" y="0" width="79.3650794" height="63.4920635" rx="6"></rect>
+        <filter x="-20.8%" y="-21.3%" width="141.6%" height="152.0%" filterUnits="objectBoundingBox" id="filter-16">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-17" x="11.1111111" y="0.777777778" width="79.3650794" height="63.4920635" rx="6"></rect>
+        <filter x="-20.8%" y="-21.3%" width="141.6%" height="152.0%" filterUnits="objectBoundingBox" id="filter-18">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-19" x="0.111111111" y="0.111111111" width="79.3650794" height="63.4920635" rx="6"></rect>
+        <filter x="-20.8%" y="-21.3%" width="141.6%" height="152.0%" filterUnits="objectBoundingBox" id="filter-20">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-21" x="0.111111111" y="0.333333333" width="79.3650794" height="63.4920635" rx="6"></rect>
+        <filter x="-20.8%" y="-21.3%" width="141.6%" height="152.0%" filterUnits="objectBoundingBox" id="filter-22">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-23" x="0.523809524" y="0.888888889" width="79.3650794" height="63.4920635" rx="6"></rect>
+        <filter x="-20.8%" y="-21.3%" width="141.6%" height="152.0%" filterUnits="objectBoundingBox" id="filter-24">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-25" x="11.1111111" y="0.555555556" width="79.3650794" height="63.4920635" rx="6"></rect>
+        <filter x="-20.8%" y="-21.3%" width="141.6%" height="152.0%" filterUnits="objectBoundingBox" id="filter-26">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-27" x="11.1111111" y="0" width="79.3650794" height="63.4920635" rx="6"></rect>
+        <filter x="-20.8%" y="-21.3%" width="141.6%" height="152.0%" filterUnits="objectBoundingBox" id="filter-28">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-29" x="0.111111111" y="0.777777778" width="79.3650794" height="63.4920635" rx="6"></rect>
+        <filter x="-20.8%" y="-21.3%" width="141.6%" height="152.0%" filterUnits="objectBoundingBox" id="filter-30">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-31" x="0.111111111" y="0.793650794" width="79.3650794" height="63.4920635" rx="6"></rect>
+        <filter x="-20.8%" y="-21.3%" width="141.6%" height="152.0%" filterUnits="objectBoundingBox" id="filter-32">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-33" x="0.111111111" y="0.80952381" width="79.3650794" height="63.4920635" rx="6"></rect>
+        <filter x="-20.8%" y="-21.3%" width="141.6%" height="152.0%" filterUnits="objectBoundingBox" id="filter-34">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-35" x="0.111111111" y="0.825396825" width="79.3650794" height="63.4920635" rx="6"></rect>
+        <filter x="-20.8%" y="-21.3%" width="141.6%" height="152.0%" filterUnits="objectBoundingBox" id="filter-36">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-37" x="11.1111111" y="0" width="79.3650794" height="63.4920635" rx="6"></rect>
+        <filter x="-20.8%" y="-21.3%" width="141.6%" height="152.0%" filterUnits="objectBoundingBox" id="filter-38">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-39" x="10.1111111" y="0.19047619" width="79.3650794" height="63.4920635" rx="6"></rect>
+        <filter x="-20.8%" y="-21.3%" width="141.6%" height="152.0%" filterUnits="objectBoundingBox" id="filter-40">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-41" x="0" y="0" width="386.206897" height="608.735632" rx="40"></rect>
+        <filter x="-16.3%" y="-9.4%" width="132.6%" height="120.7%" filterUnits="objectBoundingBox" id="filter-42">
+            <feMorphology radius="5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0464504076 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-43" x="11.1111111" y="0" width="79.3650794" height="63.4920635" rx="6"></rect>
+        <filter x="-20.8%" y="-21.3%" width="141.6%" height="152.0%" filterUnits="objectBoundingBox" id="filter-44">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-45" x="0" y="0" width="79.5" height="63.6" rx="6"></rect>
+        <filter x="-20.8%" y="-21.2%" width="141.5%" height="151.9%" filterUnits="objectBoundingBox" id="filter-46">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-47" x="0" y="0" width="79.5" height="63.6" rx="6"></rect>
+        <filter x="-20.8%" y="-21.2%" width="141.5%" height="151.9%" filterUnits="objectBoundingBox" id="filter-48">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-49" x="0" y="0" width="79.5" height="63.6" rx="6"></rect>
+        <filter x="-20.8%" y="-21.2%" width="141.5%" height="151.9%" filterUnits="objectBoundingBox" id="filter-50">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-51" x="0" y="0" width="79.5" height="63.6" rx="6"></rect>
+        <filter x="-20.8%" y="-21.2%" width="141.5%" height="151.9%" filterUnits="objectBoundingBox" id="filter-52">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-53" x="0" y="0" width="79.5" height="63.6" rx="6"></rect>
+        <filter x="-20.8%" y="-21.2%" width="141.5%" height="151.9%" filterUnits="objectBoundingBox" id="filter-54">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-55" x="0" y="0" width="79.5" height="63.6" rx="6"></rect>
+        <filter x="-20.8%" y="-21.2%" width="141.5%" height="151.9%" filterUnits="objectBoundingBox" id="filter-56">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-57" x="0" y="0" width="79.5" height="63.6" rx="6"></rect>
+        <filter x="-20.8%" y="-21.2%" width="141.5%" height="151.9%" filterUnits="objectBoundingBox" id="filter-58">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-59" x="0" y="0" width="386.206897" height="608.735632" rx="40"></rect>
+        <filter x="-16.3%" y="-9.4%" width="132.6%" height="120.7%" filterUnits="objectBoundingBox" id="filter-60">
+            <feMorphology radius="5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0464504076 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-61" x="0" y="0" width="80.71875" height="75.59375" rx="6"></rect>
+        <filter x="-14.9%" y="-11.9%" width="129.7%" height="131.7%" filterUnits="objectBoundingBox" id="filter-62">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.218353714 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-63" x="0" y="0" width="80.71875" height="75.59375" rx="6"></rect>
+        <filter x="-14.9%" y="-11.9%" width="129.7%" height="131.7%" filterUnits="objectBoundingBox" id="filter-64">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.218353714 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-65" x="0" y="0" width="80.71875" height="75.59375" rx="6"></rect>
+        <filter x="-14.9%" y="-11.9%" width="129.7%" height="131.7%" filterUnits="objectBoundingBox" id="filter-66">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.218353714 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-92" transform="translate(40.000000, 34.000000)">
+            <g id="Group-87">
+                <g id="Rectangle-24" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+                <text id="Delivery-Options." font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="28" font-weight="bold" letter-spacing="0.413333207">
+                    <tspan x="75.6806677" y="77" fill="#222222">Delivery Options</tspan>
+                    <tspan x="302.121999" y="77" fill="#3E5FC2">.</tspan>
+                </text>
+                <g id="Group-20" transform="translate(216.000000, 113.000000)">
+                    <g id="Rectangle-14" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#3E5FC2" xlink:href="#path-3"></use>
+                    </g>
+                    <text id="Selecting-Delivery-O" font-family="HelveticaNeue, Helvetica Neue" font-size="15.4454023" font-weight="normal" letter-spacing="0.285145909" fill="#FFFFFF">
+                        <tspan x="15.3360963" y="22.6336207">Selecting </tspan>
+                        <tspan x="20.058231" y="40.6336207">Delivery </tspan>
+                        <tspan x="20.4710985" y="58.6336207">Options</tspan>
+                    </text>
+                </g>
+                <g id="Group-59" transform="translate(226.000000, 201.000000)">
+                    <g id="Rectangle-14" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use fill="#ECECEC" xlink:href="#path-5"></use>
+                    </g>
+                    <text id="Selecting-day" font-family="HelveticaNeue, Helvetica Neue" font-size="15.4454023" font-weight="normal" letter-spacing="0.285145909" fill="#000000">
+                        <tspan x="6.88063651" y="27.8505747">Selecting </tspan>
+                        <tspan x="27.1818357" y="45.8505747">day</tspan>
+                    </text>
+                </g>
+                <g id="Group-56" transform="translate(228.000000, 352.000000)">
+                    <g id="Rectangle-14" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <use fill="#ECECEC" xlink:href="#path-7"></use>
+                    </g>
+                    <text id="Selecting-location" font-family="HelveticaNeue, Helvetica Neue" font-size="14.36" font-weight="normal" letter-spacing="0.265107661" fill="#000000">
+                        <tspan x="7.99420311" y="28.3045977">Selecting </tspan>
+                        <tspan x="12.5137369" y="45.3045977">location</tspan>
+                    </text>
+                </g>
+                <g id="Group-58" transform="translate(217.000000, 276.000000)">
+                    <g id="Rectangle-14" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                        <use fill="#ECECEC" xlink:href="#path-9"></use>
+                    </g>
+                    <text id="Selecting-time" font-family="HelveticaNeue, Helvetica Neue" font-size="15.4454023" font-weight="normal" letter-spacing="0.285145909" fill="#000000">
+                        <tspan x="15.8806365" y="28.533046">Selecting </tspan>
+                        <tspan x="33.7456205" y="46.533046">time</tspan>
+                    </text>
+                </g>
+                <g id="Group-54" transform="translate(71.000000, 113.000000)">
+                    <g id="Rectangle-14" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                        <use fill="#3E5FC2" xlink:href="#path-11"></use>
+                    </g>
+                    <text id="Ordering-Item/s" font-family="HelveticaNeue, Helvetica Neue" font-size="15.8730159" font-weight="normal" letter-spacing="0.293040305" fill="#FFFFFF">
+                        <tspan x="17.9548229" y="28.1111111">Ordering </tspan>
+                        <tspan x="26.9224664" y="46.1111111">Item/s</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-88" transform="translate(405.000000, 0.000000)">
+                <g id="Rectangle-24-Copy-2" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-13"></use>
+                </g>
+                <text id="Tracking-Delivery." font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="28" font-weight="bold" letter-spacing="0.413333207">
+                    <tspan x="71.5820011" y="67" fill="#222222">Tracking Delivery</tspan>
+                    <tspan x="306.220666" y="67" fill="#3E5FC2">.</tspan>
+                </text>
+                <g id="Group-85" transform="translate(38.000000, 113.000000)">
+                    <g id="Group-83">
+                        <g id="Group-60">
+                            <g id="Rectangle-14" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                                <use fill="#3E5FC2" xlink:href="#path-15"></use>
+                            </g>
+                            <text id="Tracking-Delivery" font-family="HelveticaNeue, Helvetica Neue" font-size="15.8730159" font-weight="normal" letter-spacing="0.293040335" fill="#FFFFFF">
+                                <tspan x="18.9865688" y="28.1111111">Tracking </tspan>
+                                <tspan x="20.6135529" y="46.1111111">Delivery</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-78" transform="translate(0.000000, 77.000000)">
+                            <g id="Rectangle-14" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                                <use fill="#ECECEC" xlink:href="#path-17"></use>
+                            </g>
+                            <text id="Track-location" font-family="HelveticaNeue, Helvetica Neue" font-size="15.8730159" font-weight="normal" letter-spacing="0.293040335" fill="#000000">
+                                <tspan x="30.1562881" y="28.8888889">Track </tspan>
+                                <tspan x="20.7564101" y="46.8888889">location</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-75" transform="translate(11.000000, 311.000000)">
+                            <g id="Rectangle-14" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                                <use fill="#ECECEC" xlink:href="#path-19"></use>
+                            </g>
+                            <text id="Tracking-no." font-family="HelveticaNeue, Helvetica Neue" font-size="15.8730159" font-weight="normal" letter-spacing="0.293040335" fill="#000000">
+                                <tspan x="8.78021961" y="28.2222222">Tracking </tspan>
+                                <tspan x="28.1794871" y="46.2222222">no.</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-76" transform="translate(11.000000, 233.000000)">
+                            <g id="Rectangle-14" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                                <use fill="#ECECEC" xlink:href="#path-21"></use>
+                            </g>
+                            <text id="Drone-dispatch-notif" font-family="HelveticaNeue, Helvetica Neue" font-size="12.6984127" font-weight="normal" letter-spacing="0.234432206" fill="#000000">
+                                <tspan x="22.153602" y="20.6825397">Drone </tspan>
+                                <tspan x="14.3924299" y="35.6825397">dispatch </tspan>
+                                <tspan x="7.22808319" y="50.6825397">notification</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-55" transform="translate(9.000000, 388.000000)">
+                            <g id="Rectangle-14" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                                <use fill="#ECECEC" xlink:href="#path-23"></use>
+                            </g>
+                            <text id="Drone-identification" font-family="HelveticaNeue, Helvetica Neue" font-size="12.6984127" font-weight="normal" letter-spacing="0.234432206" fill="#000000">
+                                <tspan x="22.5663004" y="21.2380952">Drone </tspan>
+                                <tspan x="2.46666685" y="36.2380952">identification </tspan>
+                                <tspan x="27.2676435" y="51.2380952">no.?</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-77" transform="translate(0.000000, 155.000000)">
+                            <g id="Rectangle-14" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                                <use fill="#ECECEC" xlink:href="#path-25"></use>
+                            </g>
+                            <text id="ETA" font-family="HelveticaNeue, Helvetica Neue" font-size="15.8730159" font-weight="normal" letter-spacing="0.293040335" fill="#000000">
+                                <tspan x="35.7429792" y="39.7777778">ETA</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group-82" transform="translate(211.000000, 0.000000)">
+                        <g id="Group-63">
+                            <g id="Rectangle-14" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                                <use fill="#3E5FC2" xlink:href="#path-27"></use>
+                            </g>
+                            <text id="Reschedule-Delivery" font-family="HelveticaNeue, Helvetica Neue" font-size="13.29" font-weight="normal" letter-spacing="0.245353907" fill="#FFFFFF">
+                                <tspan x="13.8205305" y="28.6984127">Reschedule </tspan>
+                                <tspan x="25.3956094" y="44.6984127">Delivery</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-64" transform="translate(11.000000, 77.000000)">
+                            <g id="Rectangle-14" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-29"></use>
+                                <use fill="#ECECEC" xlink:href="#path-29"></use>
+                            </g>
+                            <text id="Change-day" font-family="HelveticaNeue, Helvetica Neue" font-size="15.8730159" font-weight="normal" letter-spacing="0.293040335" fill="#000000">
+                                <tspan x="11.2796092" y="28.8888889">Change </tspan>
+                                <tspan x="26.4175824" y="46.8888889">day</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-79" transform="translate(11.000000, 150.000000)">
+                            <g id="Rectangle-14" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-32)" xlink:href="#path-31"></use>
+                                <use fill="#ECECEC" xlink:href="#path-31"></use>
+                            </g>
+                            <text id="Change-time" font-family="HelveticaNeue, Helvetica Neue" font-size="15.8730159" font-weight="normal" letter-spacing="0.293040335" fill="#000000">
+                                <tspan x="11.2796092" y="28.9047619">Change </tspan>
+                                <tspan x="23.9139193" y="46.9047619">time</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-80" transform="translate(11.000000, 223.000000)">
+                            <g id="Rectangle-14" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-34)" xlink:href="#path-33"></use>
+                                <use fill="#ECECEC" xlink:href="#path-33"></use>
+                            </g>
+                            <text id="Change-location" font-family="HelveticaNeue, Helvetica Neue" font-size="15.8730159" font-weight="normal" letter-spacing="0.293040335" fill="#000000">
+                                <tspan x="11.2796092" y="28.9206349">Change </tspan>
+                                <tspan x="10.5500609" y="46.9206349">location</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-81" transform="translate(11.000000, 296.000000)">
+                            <g id="Rectangle-14" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-36)" xlink:href="#path-35"></use>
+                                <use fill="#ECECEC" xlink:href="#path-35"></use>
+                            </g>
+                            <text id="Reschedule-confirmat" font-family="HelveticaNeue, Helvetica Neue" font-size="12.6984127" font-weight="normal" letter-spacing="0.234432206" fill="#000000">
+                                <tspan x="5.22466437" y="29.1111111">Reschedule </tspan>
+                                <tspan x="3.10744827" y="44.1111111">confirmation</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group-84" transform="translate(105.000000, 0.000000)">
+                        <g id="Group-61">
+                            <g id="Rectangle-14" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-38)" xlink:href="#path-37"></use>
+                                <use fill="#3E5FC2" xlink:href="#path-37"></use>
+                            </g>
+                            <text id="Delivery-Reminder" font-family="HelveticaNeue, Helvetica Neue" font-size="15.8730159" font-weight="normal" letter-spacing="0.293040335" fill="#FFFFFF">
+                                <tspan x="20.6135529" y="28.1111111">Delivery </tspan>
+                                <tspan x="14.5738704" y="46.1111111">Reminder</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-62" transform="translate(1.000000, 76.000000)">
+                            <g id="Rectangle-14" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-40)" xlink:href="#path-39"></use>
+                                <use fill="#3E5FC2" xlink:href="#path-39"></use>
+                            </g>
+                            <text id="Delay-notification" font-family="HelveticaNeue, Helvetica Neue" font-size="13.29" font-weight="normal" letter-spacing="0.245353907" fill="#FFFFFF">
+                                <tspan x="32.7741152" y="28.8888889">Delay </tspan>
+                                <tspan x="15.9172835" y="44.8888889">notification</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-89" transform="translate(809.000000, 0.000000)">
+                <g id="Rectangle-24-Copy-3" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-42)" xlink:href="#path-41"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-41"></use>
+                </g>
+                <text id="Receiving-Delivery." font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="28" font-weight="bold" letter-spacing="0.413333207">
+                    <tspan x="63.0873345" y="67" fill="#222222">Receiving Delivery</tspan>
+                    <tspan x="314.715332" y="67" fill="#3E5FC2">.</tspan>
+                </text>
+                <g id="Group-67" transform="translate(143.000000, 113.000000)">
+                    <g id="Rectangle-14" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-44)" xlink:href="#path-43"></use>
+                        <use fill="#3E5FC2" xlink:href="#path-43"></use>
+                    </g>
+                    <text id="Receive-Delivery" font-family="HelveticaNeue, Helvetica Neue" font-size="14.2857143" font-weight="normal" letter-spacing="0.263736337" fill="#FFFFFF">
+                        <tspan x="23.6840657" y="28.6984127">Receive </tspan>
+                        <tspan x="23.5521975" y="45.6984127">Delivery</tspan>
+                    </text>
+                </g>
+                <g id="Group-66" transform="translate(58.000000, 191.000000)">
+                    <g id="Rectangle-14" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-46)" xlink:href="#path-45"></use>
+                        <use fill="#ECECEC" xlink:href="#path-45"></use>
+                    </g>
+                    <text id="Arrival-alert" font-family="HelveticaNeue, Helvetica Neue" font-size="15.9" font-weight="normal" letter-spacing="0.293538481" fill="#000000">
+                        <tspan x="16.5023653" y="28.13">Arrival </tspan>
+                        <tspan x="23.5613538" y="46.13">alert</tspan>
+                    </text>
+                </g>
+                <g id="Group-65" transform="translate(153.000000, 191.000000)">
+                    <g id="Rectangle-14" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-48)" xlink:href="#path-47"></use>
+                        <use fill="#ECECEC" xlink:href="#path-47"></use>
+                    </g>
+                    <text id="Parcel-Sign-off" font-family="HelveticaNeue, Helvetica Neue" font-size="15.9" font-weight="normal" letter-spacing="0.293538481" fill="#000000">
+                        <tspan x="16.6411846" y="28.13">Parcel </tspan>
+                        <tspan x="11.4620653" y="46.13">Sign off</tspan>
+                    </text>
+                </g>
+                <g id="Group-57" transform="translate(250.000000, 191.000000)">
+                    <g id="Rectangle-14" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-50)" xlink:href="#path-49"></use>
+                        <use fill="#ECECEC" xlink:href="#path-49"></use>
+                    </g>
+                    <text id="Notification-for-dro" font-family="HelveticaNeue, Helvetica Neue" font-size="12.72" font-weight="normal" letter-spacing="0.234830752" fill="#000000">
+                        <tspan x="6.07331086" y="20.36">Notification </tspan>
+                        <tspan x="5.12273549" y="35.36">for drone to </tspan>
+                        <tspan x="24.3250431" y="50.36">leave</tspan>
+                    </text>
+                </g>
+                <g id="Group-86" transform="translate(58.000000, 265.000000)">
+                    <g id="Group-68">
+                        <g id="Rectangle-14" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-52)" xlink:href="#path-51"></use>
+                            <use fill="#CFD1D8" xlink:href="#path-51"></use>
+                        </g>
+                        <text id="User-is-present" font-family="HelveticaNeue, Helvetica Neue" font-size="14.31" font-weight="normal" letter-spacing="0.264184684" fill="#000000">
+                            <tspan x="16.7020936" y="28.72">User is </tspan>
+                            <tspan x="14.8346386" y="45.72">present</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-69" transform="translate(0.000000, 74.000000)">
+                        <g id="Rectangle-14" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-54)" xlink:href="#path-53"></use>
+                            <use fill="#CFD1D8" xlink:href="#path-53"></use>
+                        </g>
+                        <text id="User-is-away-but-ok" font-family="HelveticaNeue, Helvetica Neue" font-size="11.72" font-weight="normal" letter-spacing="0.216369212" fill="#000000">
+                            <tspan x="5.03806473" y="23">User is away </tspan>
+                            <tspan x="13.3763939" y="36">but ok for </tspan>
+                            <tspan x="18.4592678" y="49">drop off</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-71" transform="translate(0.000000, 222.000000)">
+                        <g id="Rectangle-14" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-56)" xlink:href="#path-55"></use>
+                            <use fill="#CFD1D8" xlink:href="#path-55"></use>
+                        </g>
+                        <text id="User-is-away,-reques" font-family="HelveticaNeue, Helvetica Neue" font-size="11.72" font-weight="normal" letter-spacing="0.216369212" fill="#000000">
+                            <tspan x="3.73444012" y="23">User is away, </tspan>
+                            <tspan x="19.3441278" y="36">request </tspan>
+                            <tspan x="10.0127539" y="49">reschedule</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-70" transform="translate(0.000000, 148.000000)">
+                        <g id="Rectangle-14" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-58)" xlink:href="#path-57"></use>
+                            <use fill="#CFD1D8" xlink:href="#path-57"></use>
+                        </g>
+                        <text id="User-not-responding" font-family="HelveticaNeue, Helvetica Neue" font-size="12.72" font-weight="normal" letter-spacing="0.234830752" fill="#000000">
+                            <tspan x="14.547277" y="28.31">User not </tspan>
+                            <tspan x="6.64864624" y="43.31">responding</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-90" transform="translate(1214.000000, 0.000000)">
+                <g id="Rectangle-24-Copy-4" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-60)" xlink:href="#path-59"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-59"></use>
+                </g>
+                <text id="Post-Delivery." font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="28" font-weight="bold" letter-spacing="0.413333207">
+                    <tspan x="99.3586675" y="67" fill="#222222">Post Delivery</tspan>
+                    <tspan x="278.443999" y="67" fill="#3E5FC2">.</tspan>
+                </text>
+                <g id="Group-74" transform="translate(148.000000, 113.000000)">
+                    <g id="Rectangle-13" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-62)" xlink:href="#path-61"></use>
+                        <use fill="#3E5FC2" xlink:href="#path-61"></use>
+                    </g>
+                    <text id="Rating" font-family="HelveticaNeue, Helvetica Neue" font-size="15.375" font-weight="normal" letter-spacing="0.2838462" fill="#FFFFFF">
+                        <tspan x="17.9392739" y="45.1875">Rating</tspan>
+                    </text>
+                </g>
+                <g id="Group-73" transform="translate(148.000000, 206.000000)">
+                    <g id="Rectangle-13" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-64)" xlink:href="#path-63"></use>
+                        <use fill="#3E5FC2" xlink:href="#path-63"></use>
+                    </g>
+                    <text id="Returns" font-family="HelveticaNeue, Helvetica Neue" font-size="15.375" font-weight="normal" letter-spacing="0.2838462" fill="#FFFFFF">
+                        <tspan x="13.1002883" y="45.1875">Returns</tspan>
+                    </text>
+                </g>
+                <g id="Group-72" transform="translate(148.000000, 302.000000)">
+                    <g id="Rectangle-13" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-66)" xlink:href="#path-65"></use>
+                        <use fill="#3E5FC2" xlink:href="#path-65"></use>
+                    </g>
+                    <text id="Ordering-Issues" font-family="HelveticaNeue, Helvetica Neue" font-size="15.375" font-weight="normal" letter-spacing="0.2838462" fill="#FFFFFF">
+                        <tspan x="9.9602402" y="34.9375">Ordering </tspan>
+                        <tspan x="18.2237114" y="52.9375">Issues</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="258px" height="256px" viewBox="0 0 258 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 46 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="192" height="190" rx="47.1272727"></rect>
+        <filter x="-27.3%" y="-24.5%" width="154.7%" height="155.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="3" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0723788496 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-46-Copy" transform="translate(33.000000, 27.000000)">
+            <g id="Rectangle-Copy-3" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" xlink:href="#path-1"></use>
+            </g>
+            <text id="Interviews" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" letter-spacing="0.354285598" fill="#3E5FC2">
+                <tspan x="35.356572" y="43">Interviews</tspan>
+            </text>
+            <g id="Group-44" transform="translate(38.000000, 138.000000)" fill="#AAAAAA">
+                <text id="6-participants" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" letter-spacing="0.162380889">
+                    <tspan x="23.8463338" y="30">6 participants</tspan>
+                </text>
+                <text id="Semistructured" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" letter-spacing="0.206666589">
+                    <tspan x="7.65433388" y="14">Semistructured</tspan>
+                </text>
+            </g>
+            <g id="Group-24-Copy-2" transform="translate(59.000000, 56.000000)" fill-rule="nonzero">
+                <circle id="Oval-7" fill="#ECECEC" cx="37" cy="37" r="37"></circle>
+                <path d="M51.9574468,28.7780967 C41.7271198,17.2904606 24.8891171,26.6149134 21.1330794,40.7404285 C17.4866499,54.4537345 29.9375874,49.1798035 31.8312691,43.5467478 C28.9341585,53.1529555 37.6275112,53.1529555 41.604849,45.6241796 C41.604849,51.6798676 48.7895216,54.2473078 51.9574468,45.6241796" id="Path-Copy-3" stroke="#3E5FC2" stroke-width="2.90476732" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

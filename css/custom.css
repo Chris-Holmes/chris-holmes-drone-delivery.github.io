@@ -332,6 +332,23 @@ p.how-might-we {
     word-spacing: 0px;
 }
 
+/* EDIT THIS */
+p.user-needs {
+    font-size: 18px !important;
+    font-weight: 600;
+     line-height: 14px;
+        /*color: #3E5FC2;*/
+    /*color: #202020;*/
+    /*color: #B6BAC6;*/
+}
+
+.nav-hl3 {
+    background-color: #3E5FC2;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+}
+
 #body-overwrite {
     padding-top: 60px !important;
 }
@@ -381,6 +398,14 @@ p.how-might-we {
 
 .img-iteration4 {
     max-width: 740px !important;
+}
+
+.img-iteration5 {
+    max-width: 480px !important;
+}
+
+.img-iteration6 {
+    max-width: 940px !important;
 }
 
 /******************
